@@ -21,7 +21,6 @@ function checkCollision(rock) {
   const top = positionToInteger(rock.style.top);
   // implement me!
   // use the comments below to guide you!
-  const top = positionToInteger(rock.style.top)
 
   // rocks are 20px high
   // DODGER is 20px high
